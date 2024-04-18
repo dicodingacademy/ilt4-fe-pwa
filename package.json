@@ -1,5 +1,5 @@
 {
-  "name": "sib2022-ilt-5-pwa-demo",
+  "name": "ilt4-fe-pwa",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.13.0",
+    "eslint": "^8.57.0",
     "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.26.0",
-    "http-server": "^14.1.0",
-    "live-server": "^1.2.1"
+    "eslint-plugin-import": "^2.29.0",
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2"
   }
 }
